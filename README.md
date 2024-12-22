@@ -1,4 +1,4 @@
-#📣 ForoHub 🌐 Challenge
+##📣 ForoHub 🌐 Challenge ##
 
 ForoHub es una aplicación de foro en línea desarrollada con Spring Boot. Este proyecto está organizado en varios paquetes que manejan diferentes aspectos de la funcionalidad de la aplicación.
 
