@@ -79,4 +79,9 @@ El proyecto utiliza las siguientes dependencias:
    ```bash
    git clone https://github.com/tu-usuario/forohub.git
 
+✨ Contribuyendo ¡Las contribuciones son bienvenidas! Siéntete libre de abrir un issue o enviar un pull request.
+
+💬 Contacto Para cualquier consulta o comentario, por favor envia un mendaje : www.linkedin.com/in/diana-c-bohorquez-m-bb70a2108
+
+Desarrollado con ❤️ por Diana Bohorquez
 
