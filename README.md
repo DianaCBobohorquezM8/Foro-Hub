@@ -12,7 +12,7 @@ Contiene los controladores de la aplicación que manejan las solicitudes HTTP y 
 - **TopicoController**: Maneja las solicitudes relacionadas con los tópicos.
 - **UsuarioController**: Maneja las solicitudes relacionadas con los usuarios.
 
-### dominio 💼
+### Dominio 💼
 Contiene las clases de dominio que representan los datos y la lógica de negocio de la aplicación.
 
 - **curso**: Paquete para las clases relacionadas con los cursos.
@@ -30,7 +30,7 @@ Contiene las clases de dominio que representan los datos y la lógica de negocio
   - **UsuarioRepository**: Interfaz para el repositorio de usuarios.
   - **ValidacionExcepcion**: Clase para manejar excepciones de validación.
 
-### infra ⚙️
+### Infra ⚙️
 Contiene las clases de infraestructura que soportan la funcionalidad de la aplicación.
 
 - **errores**: Paquete para el manejo de errores.
@@ -41,7 +41,7 @@ Contiene las clases de infraestructura que soportan la funcionalidad de la aplic
   - **SecurityFilter**: Filtro de seguridad.
   - **TokenService**: Servicio para el manejo de tokens.
 
-### springdoc 📄
+### Springdoc 📄
 Contiene las configuraciones para la documentación de Spring.
 
 - **SpringDocConfiguration**: Configuración de SpringDoc.
